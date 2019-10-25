@@ -1,0 +1,1 @@
+## Personalized Boilerplate for React Apps ##
